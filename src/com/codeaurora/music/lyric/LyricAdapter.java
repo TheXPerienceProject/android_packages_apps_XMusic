@@ -37,9 +37,9 @@ import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.Button;
 
-import com.android.music.IMediaPlaybackService;
-import com.android.music.MediaPlaybackActivity;
-import com.android.music.R;
+import mx.xperience.music.IMediaPlaybackService;
+import mx.xperience.music.MediaPlaybackActivity;
+import mx.xperience.music.R;
 
 import java.util.List;
 

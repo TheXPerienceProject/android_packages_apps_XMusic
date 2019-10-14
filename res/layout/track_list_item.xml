@@ -94,7 +94,7 @@
         android:layout_alignParentEnd="true"
         android:gravity="center_vertical" >
 
-        <view class="com.android.music.TrackBrowserFragment$WaveView"
+        <view class="mx.xperience.music.TrackBrowserFragment$WaveView"
             android:id="@+id/animView"
             android:layout_width="24dp"
             android:layout_height="24dp"

@@ -149,7 +149,7 @@
                         android:layout_centerVertical="true"
                         android:layout_marginStart="64dp"
                         android:alpha="0.87"
-                        android:text="@string/equalizer_button_text"
+                        android:text="@string/equalizer_button_text_custom"
                         android:textColor="#000000"
                         android:textSize="12sp" />
                 </RelativeLayout>

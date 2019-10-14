@@ -77,7 +77,7 @@
 
         <!-- The height is set to half the height of the parent, which is 64 dip -->
 
-        <view class="com.android.music.TrackBrowserFragment$WaveView"
+        <view class="mx.xperience.music.TrackBrowserFragment$WaveView"
             android:id="@+id/play_animator"
             android:layout_width="24dp"
             android:layout_height="24dp"

@@ -39,7 +39,7 @@ import android.os.Bundle;
 import android.provider.Settings;
 import android.util.Log;
 
-import com.android.music.R;
+import mx.xperience.music.R;
 
 import java.util.ArrayList;
 import java.util.List;

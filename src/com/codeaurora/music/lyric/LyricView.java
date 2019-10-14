@@ -38,7 +38,7 @@ import android.view.ViewGroup;
 import android.widget.AbsListView;
 import android.widget.ListView;
 
-import com.android.music.R;
+import mx.xperience.music.R;
 
 public class LyricView extends ListView {
     public static final String TAG = "LyricView";

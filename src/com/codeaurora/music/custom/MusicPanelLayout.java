@@ -51,9 +51,9 @@ import android.support.v4.view.MotionEventCompat;
 import android.support.v4.view.ViewCompat;
 import android.util.Log;
 
-import com.android.music.MediaPlaybackActivity;
-import com.android.music.MusicBrowserActivity.SimplePanelSlideListener;
-import com.android.music.MusicUtils;
+import mx.xperience.music.MediaPlaybackActivity;
+import mx.xperience.music.MusicBrowserActivity.SimplePanelSlideListener;
+import mx.xperience.music.MusicUtils;
 
 public class MusicPanelLayout extends ViewGroup {
     private static final String TAG = "MusicPanelLayout";
@@ -234,7 +234,7 @@ public class MusicPanelLayout extends ViewGroup {
             mSlipView.setFocusable(false);
             mSlipView.setFocusableInTouchMode(false);
             View view = mSlipView
-                    .findViewById(com.android.music.R.id.header_layout);
+                    .findViewById(mx.xperience.music.R.id.header_layout);
             view.setOnClickListener(new OnClickListener() {
                 @Override
                 public void onClick(View v) {

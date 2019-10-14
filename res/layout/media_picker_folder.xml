@@ -35,7 +35,7 @@
 
     <include layout="@layout/sd_error" />
 
-    <com.android.music.TouchInterceptor
+    <mx.xperience.music.TouchInterceptor
         android:layout_weight="1"
         android:id="@+id/folder_list"
         android:clipToPadding="false"

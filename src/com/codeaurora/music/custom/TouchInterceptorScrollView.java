@@ -30,7 +30,7 @@
 package com.codeaurora.music.custom;
 
 
-import com.android.music.TouchInterceptor;
+import mx.xperience.music.TouchInterceptor;
 import android.content.Context;
 import android.util.AttributeSet;
 import android.support.v4.view.NestedScrollingChild;

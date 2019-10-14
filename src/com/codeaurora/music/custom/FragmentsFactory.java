@@ -33,13 +33,13 @@ import java.util.HashMap;
 
 import android.app.Fragment;
 
-import com.android.music.AlbumBrowserFragment;
-import com.android.music.ArtistAlbumBrowserFragment;
-import com.android.music.FolderBrowserFragment;
-import com.android.music.MusicUtils;
-import com.android.music.PlaylistBrowserFragment;
-import com.android.music.TrackBrowserActivityFragment;
-import com.android.music.TrackBrowserFragment;
+import mx.xperience.music.AlbumBrowserFragment;
+import mx.xperience.music.ArtistAlbumBrowserFragment;
+import mx.xperience.music.FolderBrowserFragment;
+import mx.xperience.music.MusicUtils;
+import mx.xperience.music.PlaylistBrowserFragment;
+import mx.xperience.music.TrackBrowserActivityFragment;
+import mx.xperience.music.TrackBrowserFragment;
 
 public class FragmentsFactory {
 

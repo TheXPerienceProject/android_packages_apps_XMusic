@@ -9,7 +9,7 @@ LOCAL_SDK_VERSION := system_current
 LOCAL_USE_AAPT2 := true
 
 LOCAL_SRC_FILES := $(call all-java-files-under, src) \
-    src/com/android/music/IMediaPlaybackService.aidl
+    src/mx/xperience/music/IMediaPlaybackService.aidl
 
 LOCAL_STATIC_ANDROID_LIBRARIES := \
         $(ANDROID_SUPPORT_DESIGN_TARGETS) \
@@ -23,7 +23,7 @@ LOCAL_RESOURCE_DIR = \
         frameworks/support/v7/appcompat/res \
         frameworks/support/coordinatorlayout/src/main/res
 
-LOCAL_PACKAGE_NAME := SnapdragonMusic
+LOCAL_PACKAGE_NAME := XMusic
 LOCAL_OVERRIDES_PACKAGES := Music
 LOCAL_CERTIFICATE := platform
 

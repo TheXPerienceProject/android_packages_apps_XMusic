@@ -78,7 +78,7 @@
             android:layout_marginTop="30dp"
             android:layout_toEndOf="@id/loop_view">
 
-            <com.android.music.RepeatingImageButton
+            <mx.xperience.music.RepeatingImageButton
                 android:id="@+id/previcon"
                 style="@style/ClickBackground"
                 android:layout_width="36dp"
@@ -98,7 +98,7 @@
                 android:background="@drawable/icon_play_pause_backgroud"
                 android:src="@drawable/play" />
 
-            <com.android.music.RepeatingImageButton
+            <mx.xperience.music.RepeatingImageButton
                 android:id="@+id/nexticon"
                 style="@style/ClickBackground"
                 android:layout_width="36dp"
