@@ -210,7 +210,7 @@
             android:exported="true" >
         </activity-alias>
 
-        <activity android:name="mx.xperience.music.VideoBrowserActivity"
+<!--        <activity android:name="mx.xperience.music.VideoBrowserActivity"
             android:taskAffinity="android.task.video"
             android:label="@string/videobrowserlabel"
             android:icon="@drawable/app_video"
@@ -230,7 +230,7 @@
             </intent-filter>
             <meta-data android:name="android.app.searchable"
                 android:resource="@xml/searchable_video"/>
-        </activity>
+        </activity>-->
         <activity android:name="mx.xperience.music.MediaPickerActivity"
                 android:label="@string/mediapickerlabel" android:exported="false">
 <!--
