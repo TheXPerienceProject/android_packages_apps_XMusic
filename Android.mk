@@ -24,7 +24,7 @@ LOCAL_RESOURCE_DIR = \
         frameworks/support/coordinatorlayout/src/main/res
 
 LOCAL_PACKAGE_NAME := XMusic
-LOCAL_OVERRIDES_PACKAGES := Music
+LOCAL_OVERRIDES_PACKAGES := Music SnapdragonMusic
 LOCAL_CERTIFICATE := platform
 
 LOCAL_PROGUARD_FLAG_FILES := proguard.flags
